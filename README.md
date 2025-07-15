@@ -18,9 +18,9 @@ Ce mini projet est une simple application web développée en Python avec Flask.
 
 2. Créer un environnement virtuel Python
  ```bash
-   python3 -m venv venv
-   source venv/bin/activate    # Linux/macOS
-   venv\Scripts\activate.bat   # Windows
+ python3 -m venv venv
+ source venv/bin/activate    # Linux/macOS
+ venv\Scripts\activate.bat   # Windows
  ```
 
 3. Installer les dépendances
@@ -40,8 +40,8 @@ python app.py
 Rendez-vous ensuite sur un navigateur pour taper le lien: http://127.0.0.1:5000/
 
 Ressources :
-- CodePen - (https://codepen.io/)
-- OpenRouter - (https://openrouter.ai/)
+- [CodePen](https://codepen.io/)
+- [OpenRouter](https://openrouter.ai/)
 
 ## Auteur
 - **Math-Baba** - [GitHub](https://github.com/Math-Baba)
